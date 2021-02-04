@@ -1,0 +1,315 @@
+NOTE: ALL AVERAGES ARE WEIGHTED BY IC FREQUENCY ACROSS LEXICAL TYPES, AND MPS FREQUENCY ACROSS CORPUS TOKENS.
+WEIGHTED AVERAGES APPEAR AT THE BOTTOM OF THIS OUTPUT.
+
+============
+Cue: cueless
+
+ICØ	IMP.PFV	σσ-Ø-Ø	1.710206549670224
+ICL	IMP.PFV	σσ-Ø-la	1.710206549670224
+ICN1	IMP.PFV	σ-Ø-rra	1.710206549670224
+ICN2	IMP.PFV	σσσ-Ø-rra	1.710206549670224
+ICNG	IMP.PFV	σ-Ø-wa	1.710206549670224
+Av entropy with cueless IMP.PFV	1.710206549670224	
+Av info contributed IMP.PFV	0.0	
+
+ICØ	PST.PFV	σσ-Ø-ngu	1.7618874350063698
+ICL	PST.PFV	σσ-Ø-rnu	1.7618874350063698
+ICN1	PST.PFV	σ-Ø-nu	1.7618874350063698
+ICN2	PST.PFV	σσσ-Ø-nu	1.7618874350063698
+ICNG	PST.PFV	σ-Ø-ngu	1.7618874350063698
+Av entropy with cueless PST.PFV	1.7618874350063698	
+Av info contributed PST.PFV	0.0	
+
+ICØ	PRS	σσ-Ø-nyi	1.6725353297766767
+ICL	PRS	σσ-Ø-rni	1.6725353297766767
+ICN1	PRS	σ-na-nyi	1.6725353297766767
+ICN2	PRS	σσσ-na-nyi	1.6725353297766767
+ICNG	PRS	σ-nga-nyi	1.6725353297766767
+Av entropy with cueless PRS	1.6725353297766767	
+Av info contributed PRS	0.0	
+
+ICØ	IMP.IPFV	σσ-Ø-ma	1.7105518069511847
+ICL	IMP.IPFV	σσ-Ø-nma	1.7105518069511847
+ICN1	IMP.IPFV	σ-na-ma	1.7105518069511847
+ICN2	IMP.IPFV	σσσ-na-ma	1.7105518069511847
+ICNG	IMP.IPFV	σ-nga-ma	1.7105518069511847
+Av entropy with cueless IMP.IPFV	1.7105518069511847	
+Av info contributed IMP.IPFV	0.0	
+
+ICØ	PST.IPFV	σσ-Ø-ngi	1.6950299242949232
+ICL	PST.IPFV	σσ-Ø-rningi	1.6950299242949232
+ICN1	PST.IPFV	σ-na-ngi	1.6950299242949232
+ICN2	PST.IPFV	σσσ-na-ngi	1.6950299242949232
+ICNG	PST.IPFV	σ-nga-ngi	1.6950299242949232
+Av entropy with cueless PST.IPFV	1.6950299242949232	
+Av info contributed PST.IPFV	0.0	
+
+ICØ	FUT	σσ-Ø-ku	1.7144676496525597
+ICL	FUT	σσ-Ø-lku	1.7144676496525597
+ICN1	FUT	σ-nku-ku	1.7144676496525597
+ICN2	FUT	σσσ-nku-ku	1.7144676496525597
+ICNG	FUT	σ-ngku-ku	1.7144676496525597
+Av entropy with cueless FUT	1.7144676496525597	
+Av info contributed FUT	0.0	
+
+ICØ	CHAR	σσ-Ø-pai	1.6898437604550167
+ICL	CHAR	σσ-Ø-lpai	1.6898437604550167
+ICN1	CHAR	σ-nku-pai	1.6898437604550167
+ICN2	CHAR	σσσ-nku-pai	1.6898437604550167
+ICNG	CHAR	σ-ngku-pai	1.6898437604550167
+Av entropy with cueless CHAR	1.689843760455017	
+Av info contributed CHAR	0.0	
+
+ICØ	NMLZ	σσ-Ø-nytja	1.694999999220076
+ICL	NMLZ	σσ-Ø-ntja	1.694999999220076
+ICN1	NMLZ	σ-nku-nytja	1.694999999220076
+ICN2	NMLZ	σσσ-nku-nytja	1.694999999220076
+ICNG	NMLZ	σ-ngku-nytja	1.694999999220076
+Av entropy with cueless NMLZ	1.6949999992200762	
+Av info contributed NMLZ	0.0	
+
+ICØ	MV	σσ-Ø-rra	1.8419148251250665
+ICL	MV	σσ-Ø-ra	1.8419148251250665
+ICN1	MV	σ-nku-la	1.8419148251250665
+ICN2	MV	σσσ-Ø-ra	1.8419148251250665
+ICNG	MV	σ-ngku-la	1.8419148251250665
+Av entropy with cueless MV	1.8419148251250663	
+Av info contributed MV	0.0	
+
+System average entropy with cueless: 1.7483304832849198
+
+
+============
+Cue: aug
+
+ICØ	IMP.PFV	σσ-Ø-Ø	1.710206549670224
+ICL	IMP.PFV	σσ-Ø-la	1.710206549670224
+ICN1	IMP.PFV	σ-Ø-rra	1.710206549670224
+ICN2	IMP.PFV	σσσ-Ø-rra	1.710206549670224
+ICNG	IMP.PFV	σ-Ø-wa	1.710206549670224
+Av entropy with aug IMP.PFV	1.710206549670224	
+Av info contributed IMP.PFV	0.0	
+
+ICØ	PST.PFV	σσ-Ø-ngu	1.7618874350063698
+ICL	PST.PFV	σσ-Ø-rnu	1.7618874350063698
+ICN1	PST.PFV	σ-Ø-nu	1.7618874350063698
+ICN2	PST.PFV	σσσ-Ø-nu	1.7618874350063698
+ICNG	PST.PFV	σ-Ø-ngu	1.7618874350063698
+Av entropy with aug PST.PFV	1.7618874350063698	
+Av info contributed PST.PFV	0.0	
+
+ICØ	PRS	σσ-Ø-nyi	0.9599515833023965
+ICL	PRS	σσ-Ø-rni	0.9599515833023965
+ICN1	PRS	σ-na-nyi	0.023618702773220517
+ICN2	PRS	σσσ-na-nyi	0.023618702773220517
+ICNG	PRS	σ-nga-nyi	0
+Av entropy with aug PRS	0.5552209462006628	
+Av info contributed PRS	1.117314383576014	
+
+ICØ	IMP.IPFV	σσ-Ø-ma	0.9599515833023965
+ICL	IMP.IPFV	σσ-Ø-nma	0.9599515833023965
+ICN1	IMP.IPFV	σ-na-ma	0.020497641986107033
+ICN2	IMP.IPFV	σσσ-na-ma	0.020497641986107033
+ICNG	IMP.IPFV	σ-nga-ma	0
+Av entropy with aug IMP.IPFV	0.5545076440618169	
+Av info contributed IMP.IPFV	1.1560441628893678	
+
+ICØ	PST.IPFV	σσ-Ø-ngi	0.9599515833023965
+ICL	PST.IPFV	σσ-Ø-rningi	0.9599515833023965
+ICN1	PST.IPFV	σ-na-ngi	0.021771950993705474
+ICN2	PST.IPFV	σσσ-na-ngi	0.021771950993705474
+ICNG	PST.IPFV	σ-nga-ngi	0
+Av entropy with aug PST.IPFV	0.5547988807286653	
+Av info contributed PST.IPFV	1.1402310435662577	
+
+ICØ	FUT	σσ-Ø-ku	0.9599515833023965
+ICL	FUT	σσ-Ø-lku	0.9599515833023965
+ICN1	FUT	σ-nku-ku	0.020176160775534465
+ICN2	FUT	σσσ-nku-ku	0.020176160775534465
+ICNG	FUT	σ-ngku-ku	0
+Av entropy with aug FUT	0.55443417121052	
+Av info contributed FUT	1.1600334784420396	
+
+ICØ	CHAR	σσ-Ø-pai	0.9599515833023965
+ICL	CHAR	σσ-Ø-lpai	0.9599515833023965
+ICN1	CHAR	σ-nku-pai	0.022197722495940597
+ICN2	CHAR	σσσ-nku-pai	0.022197722495940597
+ICNG	CHAR	σ-ngku-pai	0
+Av entropy with aug CHAR	0.5548961885813217	
+Av info contributed CHAR	1.1349475718736952	
+
+ICØ	NMLZ	σσ-Ø-nytja	0.9599515833023964
+ICL	NMLZ	σσ-Ø-ntja	0.9599515833023964
+ICN1	NMLZ	σ-nku-nytja	0.021774407769940374
+ICN2	NMLZ	σσσ-nku-nytja	0.021774407769940374
+ICNG	NMLZ	σ-ngku-nytja	0
+Av entropy with aug NMLZ	0.5547994422120399	
+Av info contributed NMLZ	1.1402005570080362	
+
+ICØ	MV	σσ-Ø-rra	1.5479992339190072
+ICL	MV	σσ-Ø-ra	1.5479992339190072
+ICN1	MV	σ-nku-la	0
+ICN2	MV	σσσ-Ø-ra	1.5479992339190072
+ICNG	MV	σ-ngku-la	0
+Av entropy with aug MV	1.2375329696535347	
+Av info contributed MV	0.6043818554715317	
+
+System average entropy with aug: 1.0317659866936157
+
+
+============
+Cue: augSuff
+
+ICØ	IMP.PFV	σσ-Ø-Ø	0
+ICL	IMP.PFV	σσ-Ø-la	0
+ICN1	IMP.PFV	σ-Ø-rra	0.02052598677345087
+ICN2	IMP.PFV	σσσ-Ø-rra	0.02052598677345087
+ICNG	IMP.PFV	σ-Ø-wa	0
+Av entropy with augSuff IMP.PFV	0.004691107051768156	
+Av info contributed IMP.PFV	1.7055154426184558	
+
+ICØ	PST.PFV	σσ-Ø-ngu	0.998259762345822
+ICL	PST.PFV	σσ-Ø-rnu	0
+ICN1	PST.PFV	σ-Ø-nu	0.024901897232831545
+ICN2	PST.PFV	σσσ-Ø-nu	0.024901897232831545
+ICNG	PST.PFV	σ-Ø-ngu	0.998259762345822
+Av entropy with augSuff PST.PFV	0.42287438279195155	
+Av info contributed PST.PFV	1.3390130522144181	
+
+ICØ	PRS	σσ-Ø-nyi	0
+ICL	PRS	σσ-Ø-rni	0
+ICN1	PRS	σ-na-nyi	0.023618702773220517
+ICN2	PRS	σσσ-na-nyi	0.023618702773220517
+ICNG	PRS	σ-nga-nyi	0
+Av entropy with augSuff PRS	0.005397931137536406	
+Av info contributed PRS	0.5498230150631264	
+
+ICØ	IMP.IPFV	σσ-Ø-ma	0
+ICL	IMP.IPFV	σσ-Ø-nma	0
+ICN1	IMP.IPFV	σ-na-ma	0.020497641986107033
+ICN2	IMP.IPFV	σσσ-na-ma	0.020497641986107033
+ICNG	IMP.IPFV	σ-nga-ma	0
+Av entropy with augSuff IMP.IPFV	0.004684628998690507	
+Av info contributed IMP.IPFV	0.5498230150631264	
+
+ICØ	PST.IPFV	σσ-Ø-ngi	0
+ICL	PST.IPFV	σσ-Ø-rningi	0
+ICN1	PST.IPFV	σ-na-ngi	0.021771950993705474
+ICN2	PST.IPFV	σσσ-na-ngi	0.021771950993705474
+ICNG	PST.IPFV	σ-nga-ngi	0
+Av entropy with augSuff PST.IPFV	0.004975865665539031	
+Av info contributed PST.IPFV	0.5498230150631264	
+
+ICØ	FUT	σσ-Ø-ku	0
+ICL	FUT	σσ-Ø-lku	0
+ICN1	FUT	σ-nku-ku	0.020176160775534465
+ICN2	FUT	σσσ-nku-ku	0.020176160775534465
+ICNG	FUT	σ-ngku-ku	0
+Av entropy with augSuff FUT	0.004611156147393604	
+Av info contributed FUT	0.5498230150631264	
+
+ICØ	CHAR	σσ-Ø-pai	0
+ICL	CHAR	σσ-Ø-lpai	0
+ICN1	CHAR	σ-nku-pai	0.022197722495940597
+ICN2	CHAR	σσσ-nku-pai	0.022197722495940597
+ICNG	CHAR	σ-ngku-pai	0
+Av entropy with augSuff CHAR	0.005073173518195379	
+Av info contributed CHAR	0.5498230150631264	
+
+ICØ	NMLZ	σσ-Ø-nytja	0
+ICL	NMLZ	σσ-Ø-ntja	0
+ICN1	NMLZ	σ-nku-nytja	0.021774407769940374
+ICN2	NMLZ	σσσ-nku-nytja	0.021774407769940374
+ICNG	NMLZ	σ-ngku-nytja	0
+Av entropy with augSuff NMLZ	0.004976427148913612	
+Av info contributed NMLZ	0.5498230150631263	
+
+ICØ	MV	σσ-Ø-rra	0
+ICL	MV	σσ-Ø-ra	0.9652339231160549
+ICN1	MV	σ-nku-la	0
+ICN2	MV	σσσ-Ø-ra	0.9652339231160549
+ICNG	MV	σ-ngku-la	0
+Av entropy with augSuff MV	0.5600517725542782	
+Av info contributed MV	0.6774811970992565	
+
+System average entropy with augSuff: 0.25061026065569786
+
+
+============
+Cue: prosAugSuff
+
+ICØ	IMP.PFV	σσ-Ø-Ø	0
+ICL	IMP.PFV	σσ-Ø-la	0
+ICN1	IMP.PFV	σ-Ø-rra	0
+ICN2	IMP.PFV	σσσ-Ø-rra	0
+ICNG	IMP.PFV	σ-Ø-wa	0
+Av entropy with prosAugSuff IMP.PFV	0.0	
+Av info contributed IMP.PFV	0.004691107051768156	
+
+ICØ	PST.PFV	σσ-Ø-ngu	0
+ICL	PST.PFV	σσ-Ø-rnu	0
+ICN1	PST.PFV	σ-Ø-nu	0
+ICN2	PST.PFV	σσσ-Ø-nu	0
+ICNG	PST.PFV	σ-Ø-ngu	0
+Av entropy with prosAugSuff PST.PFV	0.0	
+Av info contributed PST.PFV	0.42287438279195155	
+
+ICØ	PRS	σσ-Ø-nyi	0
+ICL	PRS	σσ-Ø-rni	0
+ICN1	PRS	σ-na-nyi	0
+ICN2	PRS	σσσ-na-nyi	0
+ICNG	PRS	σ-nga-nyi	0
+Av entropy with prosAugSuff PRS	0.0	
+Av info contributed PRS	0.005397931137536406	
+
+ICØ	IMP.IPFV	σσ-Ø-ma	0
+ICL	IMP.IPFV	σσ-Ø-nma	0
+ICN1	IMP.IPFV	σ-na-ma	0
+ICN2	IMP.IPFV	σσσ-na-ma	0
+ICNG	IMP.IPFV	σ-nga-ma	0
+Av entropy with prosAugSuff IMP.IPFV	0.0	
+Av info contributed IMP.IPFV	0.004684628998690507	
+
+ICØ	PST.IPFV	σσ-Ø-ngi	0
+ICL	PST.IPFV	σσ-Ø-rningi	0
+ICN1	PST.IPFV	σ-na-ngi	0
+ICN2	PST.IPFV	σσσ-na-ngi	0
+ICNG	PST.IPFV	σ-nga-ngi	0
+Av entropy with prosAugSuff PST.IPFV	0.0	
+Av info contributed PST.IPFV	0.004975865665539031	
+
+ICØ	FUT	σσ-Ø-ku	0
+ICL	FUT	σσ-Ø-lku	0
+ICN1	FUT	σ-nku-ku	0
+ICN2	FUT	σσσ-nku-ku	0
+ICNG	FUT	σ-ngku-ku	0
+Av entropy with prosAugSuff FUT	0.0	
+Av info contributed FUT	0.004611156147393604	
+
+ICØ	CHAR	σσ-Ø-pai	0
+ICL	CHAR	σσ-Ø-lpai	0
+ICN1	CHAR	σ-nku-pai	0
+ICN2	CHAR	σσσ-nku-pai	0
+ICNG	CHAR	σ-ngku-pai	0
+Av entropy with prosAugSuff CHAR	0.0	
+Av info contributed CHAR	0.005073173518195379	
+
+ICØ	NMLZ	σσ-Ø-nytja	0
+ICL	NMLZ	σσ-Ø-ntja	0
+ICN1	NMLZ	σ-nku-nytja	0
+ICN2	NMLZ	σσσ-nku-nytja	0
+ICNG	NMLZ	σ-ngku-nytja	0
+Av entropy with prosAugSuff NMLZ	0.0	
+Av info contributed NMLZ	0.004976427148913612	
+
+ICØ	MV	σσ-Ø-rra	0
+ICL	MV	σσ-Ø-ra	0
+ICN1	MV	σ-nku-la	0
+ICN2	MV	σσσ-Ø-ra	0
+ICNG	MV	σ-ngku-la	0
+Av entropy with prosAugSuff MV	0.0	
+Av info contributed MV	0.5600517725542782	
+
+System average entropy with prosAugSuff: 0.0
+
+

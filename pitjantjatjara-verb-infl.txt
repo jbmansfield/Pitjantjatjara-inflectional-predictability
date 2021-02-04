@@ -1,0 +1,6 @@
+CONJ	IMP.PFV	PST.PFV	PRS	IMP.IPFV	PST.IPFV	FUR	CHAR	NMLZ	MV
+ICØ	σσ-Ø-Ø	σσ-Ø-ngu	σσ-Ø-nyi	σσ-Ø-ma	σσ-Ø-ngi	σσ-Ø-ku	σσ-Ø-pai	σσ-Ø-nytja	σσ-Ø-rra
+ICL	σσ-Ø-la	σσ-Ø-rnu	σσ-Ø-rni	σσ-Ø-nma	σσ-Ø-rningi	σσ-Ø-lku	σσ-Ø-lpai	σσ-Ø-ntja	σσ-Ø-ra
+ICN1	σ-Ø-rra	σ-Ø-nu	σ-na-nyi	σ-na-ma	σ-na-ngi	σ-nku-ku	σ-nku-pai	σ-nku-nytja	σ-nku-la
+ICN2	σσσ-Ø-rra	σσσ-Ø-nu	σσσ-na-nyi	σσσ-na-ma	σσσ-na-ngi	σσσ-nku-ku	σσσ-nku-pai	σσσ-nku-nytja	σσσ-Ø-ra
+ICNG	σ-Ø-wa	σ-Ø-ngu	σ-nga-nyi	σ-nga-ma	σ-nga-ngi	σ-ngku-ku	σ-ngku-pai	σ-ngku-nytja	σ-ngku-la
